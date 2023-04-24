@@ -1,0 +1,4 @@
+git:
+	git add .
+	git commit -m "0x15-api"
+	git push
